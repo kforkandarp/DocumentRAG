@@ -77,7 +77,7 @@ GROQ_API_KEY=your_actual_key_here
 
 ### 6. Run the app
 ```bash
-streamlit run pdfchat.py
+streamlit run pdfChatApp.py
 ```
 
 The app will open automatically at `http://localhost:8501`
@@ -88,7 +88,7 @@ The app will open automatically at `http://localhost:8501`
 
 ```
 docchat/
-├── pdfchat.py      # Main Streamlit application
+├── pdfChatApp.py      # Main Streamlit application
 ├── requirements.txt
 ├── .env            # Your API key (never committed to Git)
 └── .gitignore      # Ignores .env, venv/ etc.
