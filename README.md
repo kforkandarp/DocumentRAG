@@ -44,7 +44,7 @@ Built with LangChain, FAISS, Groq (LLaMA 3.3 70B), and Streamlit.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/kforkandarp/documentRAG.git
+git clone https://github.com/kforkandarp/DocumentRAG.git
 cd YOURREPONAME
 ```
 
